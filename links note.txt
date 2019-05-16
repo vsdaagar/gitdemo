@@ -1,0 +1,48 @@
+class notes
+
+
+
+
+translitration use 
+https://www.google.com/inputtools/try/
+
+for design use 
+https://bezier.method.ac/
+
+git installation guide website 
+https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+
+templets
+https://freehtml5.co/
+
+file zila FTP 
+
+
+
+codes to clone 
+
+cd vinay/
+cd DezineDen90_days
+code.
+
+
+
+hosting website 
+presable (word pree)
+
+featured images 
+gud n burg editor ...
+
+
+assignment 
+16 may 
+
+
+1 -typographic banner- use canva for inspiration design using XD
+2- complete portfolio without error 
+3- validate the eroor and speed 
+           * Gmetrix
+           * page and speed insight 
+           * webpagetest.org
+4- try increase the score 
+5-
